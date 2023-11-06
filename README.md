@@ -1,0 +1,4 @@
+ - genişlik 1265px
+ - sol sidebar =275px 
+ - sag sidebar = 350px
+-  content alanı auto
