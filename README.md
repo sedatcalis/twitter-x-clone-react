@@ -7,5 +7,4 @@ The project provides social media functionalities similar to Twitter, allowing u
 #Features
 
 
-
-twitter-x-clone-react.netlify.app
+https://twitter-x-clone-react.netlify.app
