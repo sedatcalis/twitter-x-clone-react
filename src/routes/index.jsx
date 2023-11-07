@@ -3,6 +3,7 @@ import Home from "../pages/home";
 import Explore from "../pages/explore";
 import NotFound from "~/pages/not-found";
 import MainLayout from "~/layouts/main";
+import Notifications from "~/pages/notifications";
 
 const routes = createBrowserRouter([
     {
@@ -20,7 +21,7 @@ const routes = createBrowserRouter([
             },
             {
                 path:'notifications',
-                element: <Notification/>
+                element: <Notifications/>
             },
             {
                 path: '*',
